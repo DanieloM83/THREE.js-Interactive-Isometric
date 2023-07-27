@@ -31,4 +31,4 @@ npx vite
 ***
 
 
-[![My Work](./static/CoffeeHouseIsometric.png)](https://www.youtube.com/watch?v=0TzjpR3pdpk)
+![My Work](./static/CoffeeHouseIsometric.png)

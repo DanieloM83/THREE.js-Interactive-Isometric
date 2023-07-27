@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+<body>
+    <canvas class="three"></canvas>
+    <main>
+        <div class="light-controls">
+            <div class="light-control">
+                <h3>Lamp Light</h3>
+                <input type="color" class="color-picker" id="co-lamp" value="#FFD36C">
+                <input type="range" min="1" max="100" value="20" class="intensity-slider" id="in-lamp">
+            </div>
+            <div class="light-control">
+                <h3>Window Light</h3>
+                <input type="color" class="color-picker" id="co-window" value="#FFD36C">
+                <input type="range" min="1" max="100" value="50" class="intensity-slider" id="in-window">
+            </div>
+            <div class="light-control">
+                <h3>Environment Light</h3>
+                <input type="color" class="color-picker" id="co-env" value="#A0FFFF">
+                <input type="range" min="5" max="500" value="50" class="intensity-slider" id="in-env">
+            </div>
+        </div>
+    </main>
+    <script type="module" src="src/index.js"></script>
+</body>
+</html>

@@ -2,9 +2,8 @@
 
 > **A small interactive 3D isometric website built using the JavaScript Three.js framework.**
 >
-> *Click on the photo below for a video preview:*
 
-[![Website Preview](./static/ImagePreview.jpg)](./static/VideoPreview.mp4)
+https://github.com/DanieloM83/THREE.js-Interactive-Isometric/assets/99620284/1eaf995c-f005-45bc-a595-f389a36a4f65
 
 ***
 
